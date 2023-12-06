@@ -1,0 +1,10 @@
+res://gameObjects/player.tscn
+res://gameObjects/player.gd
+res://scenes/main.tscn
+res://gameObjects/Mob.tscn
+res://gameObjects/mob.tscn
+res://gameObjects/mob.gd
+res://scenes/main.gd
+res://scenes/ScoreLabel.gd
+res://scenes/music_player.tscn
+res://float.res
